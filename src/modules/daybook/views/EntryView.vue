@@ -25,7 +25,7 @@
         <textarea placeholder="¿Que sucedío hoy?"></textarea>
     </div>
 
-    <Fab />
+    <Fab icon="fa-save"/>
 
     <img src="https://wallpaperaccess.com/full/6888273.jpg"
     class="img-thumbnail" 
